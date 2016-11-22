@@ -36,7 +36,7 @@ public class DataLoader {
 
         //create a posts
         Post post = new Post("Love");
-        post.setBody("<p>Love make you strong</p>");
+        post.setBody("<p>Love makes you strong</p>");
         post.setTeaser("<p>aaaaaaaaaaaaaaaaaccccccccccccccccccc</p>");
         post.setPostedOn(new Date());
         post.setAuthor(dv);
